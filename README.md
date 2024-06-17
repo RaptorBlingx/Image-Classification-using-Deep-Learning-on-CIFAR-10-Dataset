@@ -34,6 +34,6 @@ The project explores the effectiveness of various optimization algorithms (Adam,
 - SGD with mean squared error performed poorly, indicating a mismatch for the CIFAR-10 classification task.
 - Detailed results including confusion matrices and performance metrics for each model configuration are provided in the report.
 
-# Conclusion:
+## Conclusion:
 
 Future improvements could include deeper networks, learning rate adjustments, and data augmentation techniques to enhance model robustness.
